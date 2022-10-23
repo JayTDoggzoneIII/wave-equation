@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.md linguist-language=Maple
+*.mw linguist-language=Maple
